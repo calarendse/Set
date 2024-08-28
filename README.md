@@ -11,7 +11,7 @@ This implementation of the card game Set is playable with 1 or more players. The
 ### Depedencies
 
 * .NET 8
-* xunit
+* xUnit
 
 ### Installing
 
@@ -37,3 +37,4 @@ dotnet test
 ## Authors
 
 Caleb Arendse
+[calarendse] (https://github.com/calarendse)
