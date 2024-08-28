@@ -4,7 +4,7 @@ Implementation of the card game Set (see <https://en.wikipedia.org/wiki/Set_(car
 
 ## Description
 
-This implementation of the card game Set is playable with 1 or more players. The game begins with 12 cards from the 82-card deck shown. The goal of the game is to discover all sets of 3 cards. A valid set is one which has all of the same features (shape, color, number, and shading) or all different features. The first player to think of a set gets to guess. If a set is correctly guessed, the player is rewarded with one point and 3 cards from the deck replace set. If a set is guessed incorrectly, one point is deducted from the players score. If all players are unable to find a set from the 12 cards, 3 more cards can be added. The player with the highest score wins.
+This implementation of the card game Set is playable with 1 or more players. The game begins with 12 cards from the 82-card deck shown. The goal of the game is to discover all sets of 3 cards. A valid set is one which has all the same features (shape, color, number, and shading) or all different features. The first player to think of a set gets to guess. If a set is correctly guessed, the player is rewarded with one point and the 3 cards are replaced with cards from the deck. If a set is guessed incorrectly, one point is deducted from the player's score. If all players are unable to find a set from the 12 cards, 3 more cards can be added. The player with the highest score wins.
 
 ## Getting Started
 
